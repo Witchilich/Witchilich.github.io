@@ -2,8 +2,8 @@
 layout: page
 title:  About
 permalink: /about/
-youtubeid: 1f_LwO9wKK0
-youtubeid1: BZEdmNiF1ls
+youtubeid: 1f_LwO9wKK0?si=eLFIg7yql_VApimK
+youtubeid1: BZEdmNiF1ls?si=HduJNq5cI0kaPuzV
 ---
 Witchilich is the name I use all over internet. I have online presence with this name [since 2017](https://archive.is/E9l4g).
 
