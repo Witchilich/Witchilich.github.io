@@ -2,6 +2,8 @@
 layout: page
 title:  About
 permalink: /about/
+youtubeId: 1f_LwO9wKK0
+youtubeId1: BZEdmNiF1ls
 ---
 Witchilich is the name I use all over internet. I have online presence with this name [since 2017](https://archive.is/E9l4g).
 
@@ -49,11 +51,11 @@ narcissu was my first Visual Novel.
 
 My Oshi is Amelia Watson.
 
-{% youtube 1f_LwO9wKK0 %}
+{% include youtubeplayer.html id=page.youtubeId %}
 
 Before her my Oshi used to be Mochizuki Himari.
 
-{% youtube BZEdmNiF1ls %}
+{% include youtubeplayer.html id=page.youtubeId1 %}
 
 Before Ame my favorite holo was Haachama. Lately I have stopped watching vtubers, but I watched Dooby debut and a few Dooby streams.
 
