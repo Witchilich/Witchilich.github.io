@@ -13,7 +13,7 @@ I use AniDB because it lets me set date of watched of individual episodes. I hav
 
 With this data I was able to form [my anime timeline](https://anidb.net/user/860503/timeline).
 
-[My AniDB Profile](https://anidb.net/user/860503/profile)
+[My AniDB Profile Page](https://anidb.net/user/860503/profile)
 
 [My AniDB Forum Signature](https://sig.anidb.net/images/signatures/33746-1S50O.jpg) It shows my currently watching anime status
 
