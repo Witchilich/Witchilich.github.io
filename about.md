@@ -23,15 +23,15 @@ I watched many shows on Animax that are not reflected in  my AniDB list. My list
 
 # [Manga List](https://www.mangaupdates.com/member/51t57vc/witchilich)
 
-The first manga I read was Omamori Himari. I started with Mangafox, then moved to Batoto, then Mangawatcher app, then Mangarock and finally Tachiyomi (I prefer TachiyomiSy). I only include mangas that are over 30 pages in my list. The first manga I finished was Watashi ni xx Shinasai!.
+The first manga I read was Omamori Himari in 2009, but I dropped it at 10 chapters. I started with Mangafox, then moved to Batoto, then Mangawatcher app, then Mangarock and finally Tachiyomi (I prefer TachiyomiSy). I only include mangas that are over 30 pages in my list. The first manga I finished was Watashi ni xx Shinasai!.
 
 # [Light Novel/Web Novel list](https://www.novelupdates.com/readlist/?uname=Witchilich)
 
-The first Light Novel I read was Toaru Majutsu no Index immediately after finishing season 2 of the anime. I read many other light novels in Baka-Tsuki after this. Since 2017 I started reading many web novels from Novelupdates like Evil God Average and Kenkyo Kenjitsu. I used to have a fascination for otome isekai.
+The first Light Novel I read was Toaru Majutsu no Index immediately after finishing season 2 of the anime in 2011. I read many other light novels in Baka-Tsuki after this. Since 2017 I started reading many web novels from Novelupdates like Evil God Average and Kenkyo Kenjitsu. I used to have a fascination for otome isekai.
 
 # [Visual Novel list](https://vndb.org/u180431/ulist)
 
-narcissu was my first Visual Novel.
+narcissu was my first Visual Novel, that I played in 2010. After this I played G-senjou no Maou, I only played the Usami route.
 
 # Favorite Anime Openings, Endings and Insert Songs
 
