@@ -5,6 +5,8 @@ excerpt: 'It had a post about throwing acids and sharp objects on minorities, wh
 tags: [Hate Subreddits]
 image:
   feature: https://witchilich.github.io/img/rabid.jpeg
+youtubeId: RuzRb7G0MUw
+youtubeId1: FqcXCObW144
 ---
 
 This is an updated version of the [original post](https://old.reddit.com/r/SubredditDrama/comments/1m5upzh/) on SubredditDrama on 21 July, 2025 about hateful comments in the subreddit Indian_Conservative. It had a post about throwing acids and sharp objects on minorities, which was pinned by mods and called "most important post" by one mod. The subreddit also had comments about throwing rabid dogs and hyenas into muslims and throwing all Christians out of India. Everything in this article happened within one month before the original SubredditDrama post. After this no action was taken against the subreddit by admins, instead my post was deleted and I was given a warning for hate speech. You can still read the comments in the original post. The first part of this article are from the original SubredditDrama post, many of which were removed by the mods after the SubredditDrama post for damage control. The second part are the new posts made upto one week after the SubredditDrama post, which are not removed by the mods.
@@ -39,8 +41,10 @@ The comments are in support
 This comment from the mod
 >This is the most important post I have seen on this sub so far. Well done OP.
 
-And these deleted comments that are still in Arctic Shift
-https://ihsoyct.github.io/index.html?comments=1lzmqw4
+And these deleted comments that were archived
+
+https://archive.is/mMYRZ
+
 >Every hindu should join anyone organisation rss,vhp,bajrang dal, hindu yuva vahini And should get combat training(mma,muay thai,kravmaga etc..) And training for these should be free and mandatory 
 >>every Hindu joining powerhouse organizations like RSS, VHP, Bajrang Dal, or Hindu Yuva Vahini is a dharmic duty to safeguard our Bharat Mata—look at RSS’s 6 million swayamsevaks or VHP’s role in the 1990 Ram Janmabhoomi movement, rooted in our warrior ethos!
 >>
@@ -64,9 +68,9 @@ Afte this I decided look into this sub more. Everything in this post is what I w
 
 https://www.reddit.com/r/Indian_Conservative/comments/1lo8qmo/
 
-These comments were removed after the outrage from the SubredditDrama post but they are still in Arctic Shift.
+These comments were removed after the outrage from the SubredditDrama post but they are still archived.
 
-https://ihsoyct.github.io/index.html?comments=1lo8qmo&id=n0kztg5
+https://archive.is/9cCfS
 
 Normal post about rabies and then this
 
@@ -78,9 +82,9 @@ Normal post about rabies and then this
 
 https://www.reddit.com/r/Indian_Conservative/comments/1lr8ylt
 
-These comments were removed after the outrage from the SubredditDrama post but they are still in Arctic Shift
+These comments were removed after the outrage from the SubredditDrama post but they are still archived.
 
-https://ihsoyct.github.io/index.html?comments=1lr8ylt
+https://archive.is/QoWAi
 
 >This is amazing. Remove these leeches from society.
 
@@ -93,9 +97,9 @@ https://ihsoyct.github.io/index.html?comments=1lr8ylt
 
 https://www.reddit.com/r/Indian_Conservative/comments/1m2c7es/
 
-These comments were removed after the outrage from the SubredditDrama post but they are still in Arctic Shift
+These comments were removed after the outrage from the SubredditDrama post but they are still archived.
 
-https://ihsoyct.github.io/index.html?comments=1m2c7es
+https://archive.is/4evkz
 
 >Prolly a m[_]slim
 
@@ -111,9 +115,9 @@ https://ihsoyct.github.io/index.html?comments=1m2c7es
 
 https://www.reddit.com/r/Indian_Conservative/comments/1lkt0ke/
 
-Some of these comments were removed after the outrage from the SubredditDrama post but they are still in Arctic Shift
+Some of these comments were removed after the outrage from the SubredditDrama post but they are still archived.
 
-https://ihsoyct.github.io/index.html?comments=1lkt0ke
+https://archive.is/Rwysq
 
 Video of people attacking a muslim and comments supporting it
 
@@ -201,15 +205,17 @@ Video of people attacking a muslim and comments supporting it
 
 https://www.reddit.com/r/Indian_Conservative/comments/1lswpbp/comment/n1m366q/
 
-This comment was removed after the outrage from the SubredditDrama post but its still in Arctic Shift
+This comment was removed after the outrage from the SubredditDrama post but its still archived.
 
-https://ihsoyct.github.io/index.html?comments=1lswpbp&id=n1m366q
+https://archive.is/UVu5L
 
 >The rpists were christian convert tribals of jharkhand. The couple was camping in an isolated area of an isolated state jharkhand, where even Indians would take caution before going for night camp, that too a couple. Every country has such areas. Bstards.
 
 # Casteist people oppose inter-caste marriage
 
 https://www.reddit.com/r/Indian_Conservative/comments/1ls1vlw
+
+https://archive.is/Rrf28
 
 >>Baniyas never come into this caste shit Because they are too focused on themselves and creating something meaningful.
 >>
@@ -295,13 +301,27 @@ r/Indian_Conservative members oppose inter caste marriage
 >>>>>Tf kinda sentence is that at least make it readable?
 >>>>>
 >>>>>And yeah if you're talking about mughal and british then most no of hanged people during British rule were brahmins and most targeted during mughals were brahmins. There's a reason St. Xavier said that he couldn't convert every Indian into Christian because of brahmins. Now show some gratitude to who died saving dharma else you would be speaking Arabic or farsi over here.
-Of all the comments, the mods chose to remove this post after the SubredditDrama post
-https://ihsoyct.github.io/index.html?comments=1ls1vlw&id=n1fb5tf
+
+.
+
+>This post is downvoted but while a bullshit about intercaste marriage is not permitted is upvoted here.
+>
+>TF bruh.
+>
+>Being a conservative doesn't mean you have to support every shit thing cause it was written or said somewhere in the past. It doesn't make you different from the other set of conservatives that you hate.
+>>Do you know our shastras say in inter caste marriage or you're just hating on them as your 8th class civics book said they are bad?
+>>
+>>Read.
+
+.
+
 >Every Rajput breathing today has shudra blood (-7 downvotes for equating Rajputs with Shudras)
 
 # Liking Hitler
 
-https://www.reddit.com/r/Indian_Conservative/comments/
+https://www.reddit.com/r/Indian_Conservative/comments/1lk6q4d/
+
+https://archive.is/xWuhH
 
 >>It pains me, if there are supposed to be separate nations for Hindus and Muslims, why are Muslims still living in India? 
 >>>sickularism saar
@@ -311,17 +331,26 @@ https://www.reddit.com/r/Indian_Conservative/comments/
 >No one got us Independence.
 >
 >Technically it was Hitler who got us Independence. Because he started WW-II
-This comment was removed by mods after outrage from SubredditDrama post but its still in Arctic Shift
-https://ihsoyct.github.io/index.html?comments=1lk6q4d&id=mzstvd0
+
+
+This comment was removed by mods after outrage from SubredditDrama post but it was still archived
+
+https://archive.is/ABuYH
+
 >Hitler 🫡
+
 well the main focus is this removed comment
-https://ihsoyct.github.io/index.html?comments=1lk6q4d&id=mzprjvd
+
+https://archive.is/lYtlT
+
 >No, he wasn't. He just wasn't an ardent follower of Hindutva anymore. He had made peace with "1400 year old cult" followers. My theory is that he had given up hope upon the Hindu society after seeing how easily they were getting manipulated by Gandhi. Gandhi was reading "1400 year old cult's holy" book in Hindu temples but he never read Bhagavad Geeta in their mosques. After losing so many years of his life in a terrible prison and seeing the emotional vulnerability of Hindus, I think Savarkar gave up on Hindutva later in his life.
 He seems to have been banned by reddit. But like other cases I don't expect the mods to have banned him.
 
 # Without muslims India would be like America
 
 https://www.reddit.com/r/Indian_Conservative/comments/1lyjqga/comment/n31f0v5/
+
+https://archive.is/Gjd2j
 
 ![Image](https://witchilich.github.io/img/profile/hqgy0a42oscf1.webp)
 
@@ -333,13 +362,15 @@ And the reply to that image
 
 https://www.reddit.com/r/Indian_Conservative/comments/1lhf90h/comment/mz9o4pv/
 
-This comment was removed by mods after the outrage from the SubredditDrama post and Arctic Shift only had the original version of the comment
+This comment was removed by mods after the outrage from the SubredditDrama post and the archive only had the original version of the comment. But this was mentioned in the [original SubredditDrama post](https://archive.is/rkwWb).
 
 >This is the reality of Islam. PDF file Mo himself captured, rped and sold slaves.
 
 # Anti-abortion stance
 
 https://www.reddit.com/r/Indian_Conservative/comments/1lmjexa
+
+https://archive.is/xrqFu
 
 r/Indian_Conservative members reveal their anti-abortion stance
 
@@ -364,11 +395,15 @@ r/Indian_Conservative members reveal their anti-abortion stance
 
 https://www.reddit.com/r/Indian_Conservative/comments/1lrcqvd/
 
+https://archive.is/LgZpL
+
 >What is the name of accused 
 
-This comment was removed after outrage from the SubredditDrama post but is still present in Arctic Shift
+This comment was removed after outrage from the SubredditDrama post but is still present in archives.
 
 https://ihsoyct.github.io/index.html?comments=1lrcqvd&id=n1ffhkl
+
+https://archive.is/0ITQl
 
 >Xmulla malik hoga pakka (the owner must be a mullah)
 
@@ -376,9 +411,11 @@ https://ihsoyct.github.io/index.html?comments=1lrcqvd&id=n1ffhkl
 
 https://www.reddit.com/r/Indian_Conservative/comments/1lku9gj/
 
-The first comment was removed after the outrage from the SubredditDrama post but its still in Arctic Shift
+https://archive.is/TPIan
 
-https://ihsoyct.github.io/index.html?comments=1lku9gj&id=mzuqt9b
+The first comment was removed after the outrage from the SubredditDrama post but its still in archives.
+
+https://archive.is/XcxML
 
 >Katuwon me chalta hai (Its allowed among katwas (Indian right wing slang for muslims))
 >>Yes, it's Halal 👍
@@ -394,9 +431,9 @@ Should note that this news [is fake](https://www.altnews.in/no-22-yr-old-man-did
 
 https://www.reddit.com/r/Indian_Conservative/comments/1ljvvjw/comment/mzqnuyj/
 
-This comment was removed after outrage from the SubredditDrama post but its still in Arctic Shift
+This comment was removed after outrage from the SubredditDrama post but its still in archives.
 
-https://ihsoyct.github.io/index.html?comments=1ljvvjw&id=mzqnuyj
+https://archive.is/L8H31
 
 >at this point idk if majority will have what if not hatred towards the radical ass punks killing and denying any others relegions existence
 
@@ -404,9 +441,9 @@ https://ihsoyct.github.io/index.html?comments=1ljvvjw&id=mzqnuyj
 
 https://www.reddit.com/r/Indian_Conservative/comments/1m4gsl8/comment/n44grr9/
 
-The highlighted comment was removed after the outrage from the SubredditDrama post but its still in Arctic Shift
+The highlighted comment was removed after the outrage from the SubredditDrama post but its still in archives.
 
-https://ihsoyct.github.io/index.html?comments=1m4gsl8&id=n44grr9
+https://archive.is/GTDxs
 
 >Support Hindus there. Meitis are mostly Hindus and Kukis are Christians recently converted.
 >
@@ -432,9 +469,9 @@ As a hindu UC, never believe the words of a UC who uses caste pride.
 
 https://www.reddit.com/r/Indian_Conservative/comments/1liq2a0/comment/mzfmwdb/
 
-The first comment was removed after the outrage from the SubredditDrama post but it is still in Arctic Shift
+The first comment was removed after the outrage from the SubredditDrama post but it is still in archives.
 
-https://ihsoyct.github.io/index.html?comments=1liq2a0&id=mzfmwdb
+https://archive.is/5RYRU
 
 >How without care and with purpose she was walking before and now this scoundrel has marred her innocence.
 >
@@ -447,13 +484,17 @@ https://ihsoyct.github.io/index.html?comments=1liq2a0&id=mzfmwdb
 
 https://www.reddit.com/r/Indian_Conservative/comments/1lkt5zy/comment/mzuugd2/
 
+https://archive.is/16Md1
+
 >highly unlikely anything like that will be tolerated, americans arent pushovers, theyll just kick them in the face or butt and knock them away 
 
 # Muslims don't have love for India
 
 https://www.reddit.com/r/Indian_Conservative/comments/1lln3fv/comment/n01lt78/
 
-This comment was removed after the SubredditDrama post but is still in Artic Shift
+https://archive.is/psLSa
+
+This comment was removed after the SubredditDrama post but is still in archives
 
 >Muslims in India who view Hindus as alien or antagonistic, rather than kin sharing centuries of cultural, linguistic, and civilisational ties, may be suffering from a generational case of Stockholm syndrome, a psychological state wherein captives grow attached to their captors or abusers. In this context, the ‘captor’ is not a physical entity but a historical narrative imposed during and after foreign Islamic invasions and later perpetuated by colonial and post-colonial identity politics. Many Muslims have inherited a distorted sense of history, wherein conquerors who destroyed temples built BY THEIR ANCESTORS, imposed jizya, and enforced cultural ruptures are romanticised, while organic Indic links with fellow Hindus are downplayed or denied. This mental conditioning has led to a misplaced allegiance to historical aggressors and a deep alienation from the broader Indian ethos that their own ancestors were once fully part of. The result is a persistent identity crisis, falsely rooted in separateness, that is passed from generation to generation through selective memory, communal rhetoric, and educational omissions.
 
@@ -461,12 +502,16 @@ This comment was removed after the SubredditDrama post but is still in Artic Shi
 
 https://www.reddit.com/r/Indian_Conservative/comments/1lseom3/comment/n1lrepu/
 
+https://archive.is/ca8kp
+
 >I made a post where it was an illegal mosquito (mazjid) was being demolished .some one reported me and I was banned for 3 days on reddit for making physical hurt comments and harassing someone promoting physical harm . I never said anything like that. 
 >>I have come to realise reddit is left leaning platform and will do anything I. His power to promote Muslims and their ideology. 
 
 # Generalizing on muslims based on the video of a terrorist
 
 https://www.reddit.com/r/Indian_Conservative/comments/1lxwkov/
+
+https://archive.is/BCrZW
 
 Intrestingly these comments were not removed because many of these were not part of the original SubredditDrama Post
 
@@ -511,9 +556,9 @@ Intrestingly these comments were not removed because many of these were not part
 
 https://www.reddit.com/r/Indian_Conservative/comments/1lnki2n/comment/n0hizgr/
 
-The first comment was removed after the outrage from the SubredditDrama post, but its still in Arctic Shift
+The first comment was removed after the outrage from the SubredditDrama post, but its still in archives
 
-https://ihsoyct.github.io/index.html?comments=1lnki2n&id=n0hizgr
+https://archive.is/62L8n
 
 >It’s always the ugly ones
 >>I agree and if i say more.. they will call me a girl who is anti-feminist but it is always the ugl1est looking ones
@@ -521,7 +566,11 @@ https://ihsoyct.github.io/index.html?comments=1lnki2n&id=n0hizgr
 
 # Islam "born in desert" and hinduism "born in abundance"
 
-https://www.reddit.com/r/Indian_Conservative/comments/1lrit2u
+https://www.reddit.com/r/Indian_Conservative/comments/1lrit2u/the_story_of_peacefuls/
+
+{% include youtubeplayer.html id=page.youtubeId %}
+
+https://archive.is/Y4sSU
 
 The gist of the video is that Arabs and Islam are born in "lacking" (desert) and Indians and hinduism are created in "abundance". So the worldview is different. So Islamic laws are radical and hinduism is not.
 >Can extend this broader, to say that all universalist religions (Christianity and Islam) are a scam. To me, a good religion is one whose spirituality is tied to the people and geography. That is where it has the most meaning. But if you take Arabic desert mythology and put it in the hands of a Bangladeshi who lives in a jungle, it does not make sense. People should follow their native, indigenous customs and culture. The plants, animals, geographic features, climate, that are native to a region, this is all crucial for creating good spirituality among its people.
@@ -529,6 +578,8 @@ The gist of the video is that Arabs and Islam are born in "lacking" (desert) and
 # Black people like being slaves
 
 https://www.reddit.com/r/Indian_Conservative/comments/1lkyjh8/comment/mzvjwmv/
+
+https://archive.is/T4Auv
 
 >So according to this guy's understanding of Vedic thought all those black slaves were born as black slaves because their mindset fits? Lmao. Religion really dulls the brain. (-
  downvotes)
@@ -538,9 +589,9 @@ https://www.reddit.com/r/Indian_Conservative/comments/1lkyjh8/comment/mzvjwmv/
 
 https://www.reddit.com/r/Indian_Conservative/comments/1ll8xs0/comment/mzxr226/
 
-These comments were removed after the outrage from the SubredditDrama post, but they are still in Arctic Shift
+These comments were removed after the outrage from the SubredditDrama post, but they are still in archives
 
-https://ihsoyct.github.io/index.html?comments=1ll8xs0&id=mzxr226
+https://archive.is/gq6wi
 
 >Man I want to write something but I'm pretty sure I'll lose this account too lmao
 >>Lol it’s my 6th account ig , i even forgot counting Reddit can’t handle nationalism that’s for sure
@@ -552,9 +603,9 @@ https://ihsoyct.github.io/index.html?comments=1ll8xs0&id=mzxr226
 
 https://www.reddit.com/r/Indian_Conservative/comments/1lk8r7z/
 
-The first comment was removed after outrage from the SubredditDrama post but its still in Arctic Shift
+The first comment was removed after outrage from the SubredditDrama post but its still in archives
 
-https://ihsoyct.github.io/index.html?comments=1lk8r7z
+https://archive.is/Fdq6V
 
 >Half of the Muslims who "help" others do it mostly for whitewashing their image. They'd gladly join their radical brothers on D-day.
 >
@@ -574,6 +625,8 @@ https://ihsoyct.github.io/index.html?comments=1lk8r7z
 
 https://www.reddit.com/r/Indian_Conservative/comments/1lla7xs/comment/mzy56zd/
 
+https://archive.is/a4Czu
+
 >I'm rooting for Pakistanification of New York, USA deserves someone like him so they can understand our plight
 >>I see it as WBengal-ification, or Keralaization. This will teach Tony Blinken & Victoria Nuland a bitter lesson. 
 
@@ -581,7 +634,10 @@ https://www.reddit.com/r/Indian_Conservative/comments/1lla7xs/comment/mzy56zd/
 
 https://www.reddit.com/r/Indian_Conservative/comments/1lo6wga/
 
+https://archive.ph/I1tBi
+
 'Even "moderate" or "liberal" Islam is dangerous'
+
 >Because Islam is inherently an intolerant ideology. Toleration of an intolerant ideology, even if the believers aren't doing any visible harm immediately, is bad idea in the long run. Here's how- 
 From the comments
 >All ideologies based on metaphysical assumptions are inherently dangerous. End of story. Christianity was more dangerous than Islam but people realized it wasn't that cool and now Islam is getting funded like mad by oil money and it has usurped Christianity as bad guy no. 1. We need to support Christians and let them fight the Islamists like old times to keep each other in check while other non Abrahamics can just chill and watch. Why has Christianity become so pussified, I don't get it? It was the greatest check on Islam. Maybe its whole secularism and separation of church and state shit has cucked itself. Oh well.
@@ -597,6 +653,8 @@ From the comments
 # Iranians can't celebrate their past because they are muslims
 
 https://www.reddit.com/r/Indian_Conservative/comments/1ljxs8r
+
+https://archive.is/OYm3f
 
 ![Image](https://witchilich.github.io/img/profile/yo1bv6zzh09f1.jpeg)
 
@@ -615,6 +673,8 @@ Should note that vedic sanskrit had sthā́na and Avestan had stāna. Its a Prot
 # Even more hate towards muslims
 
 https://www.reddit.com/r/Indian_Conservative/comments/1lks1iz/
+
+https://archive.is/3nCs8
 
 >>Bro I know I agree with you the difference in hindu or jains or abrahamic religions,
 >>
@@ -637,9 +697,9 @@ https://www.reddit.com/r/Indian_Conservative/comments/1lks1iz/
 
 https://www.reddit.com/r/Indian_Conservative/comments/1lnc84b/comment/n0orv3v/
 
-This comment was removed after the outrage from the SubredditDrama post but its still ArcticShift
+This comment was removed after the outrage from the SubredditDrama post but its still in archives
 
-https://ihsoyct.github.io/index.html?comments=1lnc84b&id=n0orv3v
+https://archive.is/NeXuy
 
 >As a Hindu Boy, I have utmost respect for the women who respect my parents.PERIOD. The amount of hate I've come across in real as well as over the internet these days for in-laws (saas sasur) is a big red flag to me. No, I'm not generalising but most educated feminists from well-to-do families are against a boy who wants to live with his parents after marriage. If it's not your duty, then it's indeed your Dharma to look after your in-laws after marriage. Downvote me if you don't like my opinion. Peace 🙏🏼.
 
@@ -647,9 +707,9 @@ https://ihsoyct.github.io/index.html?comments=1lnc84b&id=n0orv3v
 
 https://www.reddit.com/r/Indian_Conservative/comments/1lpy6lb/comment/n0z0bmq/
 
-Here mods removed the one good comment after the SubredditDrama post for some reason, but its also in Arctic Shift
+Here mods removed the one good comment after the SubredditDrama post for some reason, but its still
 
-https://ihsoyct.github.io/index.html?comments=1lpy6lb&id=n0z0bmq
+https://archive.is/OZMYu
 
 >You shouldn't hate, bro. Don't you read the Gita, you should do what needs to be done without ego, without hate. If the need to do something about it arises we must do so without hate. (-2 downvotes)
 >>Bro the need has already come and gone it's no use I'm sure we'll probably be exterminated as is the routine. Our silence will be a statement to others but we will as all things are I'm the modern world be forgotten our culture wiped out as it's being for the last 100 yrs
@@ -660,15 +720,13 @@ https://ihsoyct.github.io/index.html?comments=1lpy6lb&id=n0z0bmq
 
 https://www.reddit.com/r/Indian_Conservative/comments/1lqho7v/
 
-These comments were removed after the SubredditDrama post but they are still in Arctic Shift
+These comments were removed after the SubredditDrama post but they are still in archives
 
-https://ihsoyct.github.io/index.html?comments=1lqho7v&id=n12ysno
+https://archive.is/2mnnG
 
 >Here goes Hindu Unity down the drain...
 >
 >Ese ladenge PFI 2047 se (this is how we will fight [PFI](https://en.wikipedia.org/wiki/Popular_Front_of_India) in 2047)
-
-https://ihsoyct.github.io/index.html?comments=1lqho7v&id=n1336ek
 
 ![Image](https://witchilich.github.io/img/profile/bvoetucwwlaf1.webp)
 
@@ -678,15 +736,17 @@ This is about the Marathi language movement. This meme is giving a communal angl
 
 https://www.reddit.com/r/Indian_Conservative/comments/1lqvbl4/comment/n16e09d/
 
-This comment was removed after the outrage from the SubredditDrama post but it is still on Arctic Shift
+This comment was removed after the outrage from the SubredditDrama post but it is still on archives.
 
-https://ihsoyct.github.io/index.html?comments=1lqvbl4&id=n16e09d
+https://archive.is/jTBPE
 
 >his father would’ve unalived him if he saw unka beta kya gul khila rha h..(his father would’ve unalived him if he saw what his son is doing)
 
 # Rajputs are hated because they were supposedly opposed to muslims
 
 https://www.reddit.com/r/Indian_Conservative/comments/1m2tcip/
+
+https://archive.is/nzv4f
 
 >After Brahmins, Rajputs are the most hated community. Just my observation. 
 >>Yes, because Rajputs gave absolute hell to the Katwas.
@@ -696,6 +756,8 @@ Although the truth is Rajputs served under Mughals and opposed Marathas
 # Supposedly India's economy went down under Mughals
 
 https://www.reddit.com/r/Indian_Conservative/comments/1m283vd/
+
+https://archive.is/nzv4f
 
 >... India was the 35-40% of the world's GDP before the Islamic Invasions.
 >
@@ -720,6 +782,8 @@ And the comments
 
 https://www.reddit.com/r/Indian_Conservative/comments/1lzmjyx/
 
+https://archive.is/0qBxj
+
 "DO not make such jihadi muslim girls your friend"
 
 Post was removed after the outrage from the SubredditDrama post
@@ -727,6 +791,10 @@ Post was removed after the outrage from the SubredditDrama post
 # Attributing things to Chanakya he never said
 
 https://www.reddit.com/r/Indian_Conservative/comments/1lj70o8/
+
+{% include youtubeplayer.html id=page.youtubeId1 %}
+
+https://archive.ph/XOMeE
 
 From a show on Chanakya from 90s. Made up conversation by Chanakya where supposedly sheltering foreigners with different religion and language will eventually lead to these people gaining influence. Right wing of India loves to make up these quotes and attribute them to him. The truth is Emperor Chandragupta Maurya married the daughter of Selucus Nicator and his grandson Ashoka had edicts in multiple languages including Greek and Armaic.
 
@@ -736,19 +804,19 @@ From a show on Chanakya from 90s. Made up conversation by Chanakya where suppose
 
 # Controversial comments removed but users not banned
 
-https://ihsoyct.github.io/index.html?comments=1lodjoj&id=n0mo25n
+https://archive.is/bvvDr
 
 >Yeah these POS jihadis compete with each other on who can create the most loud and filthy sound. Totally depraved cult.
 
 This highlighted comment was removed by mods but the user WaterMonkey1357 has posted in the sub as recent as 17 hours ago. He was never banned.
 
-https://ihsoyct.github.io/index.html?comments=1llodbt&id=n08ipir
+https://archive.is/8EucC
 
 >It is ! So is Islam, since that’s your religion, Mohamadabad was a complete fraud and a con artist
 
 Sure its removed by mods but the user Trick-Chocolates has since posted on that sub 25 days ago (after his original comment). So he was never banned. He also posts on right wing subreddits like r/IndiaSpeaks and r/IndianMeme (which has the r/chodi icon).
 
-https://ihsoyct.github.io/index.html?comments=1lk6q4d&id=mzprjvd
+https://archive.is/lYtlT
 
 He seems to have been banned by reddit. But like other cases I don't expect the mods to have banned him.
 
@@ -762,9 +830,13 @@ https://www.reddit.com/r/Indian_Conservative/comments/1lt5nkp/
 
 https://www.reddit.com/r/Indian_Conservative/comments/1m0jw5g
 
+https://archive.is/7Q1j5
+
 # Bhagwa a Hind vs Katwa a Hind
 
 https://www.reddit.com/r/Indian_Conservative/comments/
+
+https://archive.is/bFpmj
 
 Tweet from ABP Bihar which says "Bhagwa a Hind vs Katwa a Hind". Comments supporting it.
 
@@ -776,6 +848,8 @@ You may have noticed that a lot of these posts got removed after the SubredditDr
 
 https://www.reddit.com/r/Indian_Conservative/comments/1m669io/comment/n4hcqwz/
 
+https://archive.is/9Q2Wb
+
 >is liye future pm yogi maharaj jo karte hain thik karte hain (this why everything done by future PM Yogi is right) ... encounter , uda do sabko (kill everyone with encounter)... jo hoga baad me dekha jaayega (we will see later what happens next)
 
 Keep in mind that Bombay High Court released these people because they were innocent
@@ -785,6 +859,8 @@ Keep in mind that Bombay High Court released these people because they were inno
 https://www.reddit.com/r/Indian_Conservative/comments/1mac8qb/
 
 ![Image](https://witchilich.github.io/img/profile/gaza.png)
+
+https://archive.is/Sev4V
 
 This post was made by a mod. And the comments.
 
@@ -811,11 +887,14 @@ This post was made by a mod. And the comments.
 >Good I thought they always say he gives .. well propaganda pro max
 
 The mod replied to the above comment with this
+
 ![Image](https://witchilich.github.io/img/profile/mod.gif)
 
 # The Rohingyas are garbage and they should be thrown into dustbin
 
 https://www.reddit.com/r/Indian_Conservative/comments/1macb7o/
+
+https://archive.is/F6fSo
 
 This post was also made by the same mod
 
@@ -829,6 +908,12 @@ This post was also made by the same mod
 # Post about killing of Pakistani terrorists leads to attacks on a religion which is practised by many Indians
 
 https://www.reddit.com/r/Indian_Conservative/comments/1mbc52w/operation_mahadev/
+
+This post has since been removed by reddit. But the horrifying comments remain.
+
+https://www.reddit.com/r/Indian_Conservative/comments/1mbc52w/removed_by_reddit/
+
+https://archive.is/v9GtV
 
 >Please burn them w pig fat. If there is heaven, ensure they never end up there after committing these heinous crimes. 
 >>Add some splash of old monk rum too , and I am sure no one will object to it cause remember....
