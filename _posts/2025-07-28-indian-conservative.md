@@ -7,6 +7,7 @@ image:
   feature: https://witchilich.github.io/img/rabid.jpeg
 youtubeId: RuzRb7G0MUw
 youtubeId1: FqcXCObW144
+youtubeId2: bOb_zfcCRQg
 ---
 
 This is an updated version of the [original post](https://old.reddit.com/r/SubredditDrama/comments/1m5upzh/) on SubredditDrama on 21 July, 2025 about hateful comments in the subreddit Indian_Conservative. It had a post about throwing acids and sharp objects on minorities, which was pinned by mods and called "most important post" by one mod. The subreddit also had comments about throwing rabid dogs and hyenas into muslims and throwing all Christians out of India. Everything in this article happened within one month before the original SubredditDrama post. After this no action was taken against the subreddit by admins, instead my post was deleted and I was given a warning for hate speech. You can still read the comments in the original post. The first part of this article are from the original SubredditDrama post, many of which were removed by the mods after the SubredditDrama post for damage control. The second part are the new posts made upto one week after the SubredditDrama post, which are not removed by the mods.
@@ -911,8 +912,6 @@ https://www.reddit.com/r/Indian_Conservative/comments/1mbc52w/operation_mahadev/
 
 This post has since been removed by reddit. But the horrifying comments remain.
 
-https://www.reddit.com/r/Indian_Conservative/comments/1mbc52w/removed_by_reddit/
-
 https://archive.is/v9GtV
 
 >Please burn them w pig fat. If there is heaven, ensure they never end up there after committing these heinous crimes. 
@@ -943,6 +942,8 @@ Old Monk Rum is an Indian dark rum.
 # Bengali muslims attacked for being Bangladeshis, commenters celebrate
 
 https://www.reddit.com/r/Indian_Conservative/comments/1ma5rsr
+
+https://archive.is/6LycJ
 
 The poster is a mod. This comment is from him
 
@@ -1003,6 +1004,10 @@ Someone posted [this link](https://www.thenewsminute.com/news/roti-beti-aur-mati
 
 https://www.reddit.com/r/Indian_Conservative/comments/1mcd45d
 
+{% include youtubeplayer.html id=page.youtubeId2 %}
+
+https://archive.is/UDh0c
+
 The video skit is about a muslim beggar who was asking for money to buy food. The boy gave him a 500 ₹ note. When the beggar blessed him and the boy learned that he is muslim, the boy took away the 500 ₹ note and gave him a small coin instead. This post was made by the same mod.
 
 >I don’t even give a penny if asked in the name of foreigner God
@@ -1010,6 +1015,8 @@ The video skit is about a muslim beggar who was asking for money to buy food. Th
 # Even more mocking of muslims for their beliefs
 
 https://www.reddit.com/r/Indian_Conservative/comments/1m5gr91/comment/n4bqux2/
+
+https://archive.is/wCjg9
 
 >All useless lives in a single video. Based on their socio economic status, all they are gonna be is this Allah 💦 wankers, continue this with their family too, pass it on to the next generation as well.
 >
@@ -1019,6 +1026,8 @@ https://www.reddit.com/r/Indian_Conservative/comments/1m5gr91/comment/n4bqux2/
 # Muslims are told to spit in their food
 
 https://www.reddit.com/r/Indian_Conservative/comments/1m919c3/
+
+https://archive.is/HCB3H
 
 >...
 >It is said that followers should act like muhammad. So whatever deeds muhammad did are repeated by followers  .  
@@ -1033,6 +1042,8 @@ https://www.reddit.com/r/Indian_Conservative/comments/1m919c3/
 
 https://www.reddit.com/r/Indian_Conservative/comments/1m9luxs/part_5_of_a_hindu_critiques_islam_islamic/
 
+https://archive.is/48QYz
+
 ![Image](https://witchilich.github.io/img/profile/DzG-bddMhDI0dPZ-C.webp)
 
 This image is featured in the website linked to the post.
@@ -1040,6 +1051,8 @@ This image is featured in the website linked to the post.
 # Christianity hates hindus more than Nazism hates Jews
 
 https://www.reddit.com/r/Indian_Conservative/comments/1mc49al/
+
+https://archive.is/QbkOj
 
 >If you talk to the average Bible Belt Christians from America, they will call our devi-devtas demons and call for destroying all murtis and vigrahas.
 >
@@ -1056,11 +1069,17 @@ https://www.reddit.com/r/Indian_Conservative/comments/1mc49al/
 
 https://www.reddit.com/r/Indian_Conservative/comments/1m7ubom/comment/n4umqbm/
 
+https://archive.is/6xqrX
+
 >Embarrassing lol.
 >
 >Edit - I realise there's nothing wrong in being proud of being a Christian or your religion. But we know fully well, with Abrahamic faiths, it's never just about themselves. It is only 1 tiny step away from 'Hindus bad oogaa booogaa'. J Sai Deepak explains this very well in a clip of his where he talks of this happening in stages.
 
 # More Brahmin victimhood
+
+https://www.reddit.com/r/Indian_Conservative/comments/1m6croc/comment/n4ixqxx/
+
+https://archive.is/CYD7Z
 
 >Missionaries , Islamic invaders and Marxists all target Brahmins because Brahmins were intellectual and threat to them.
 >
@@ -1075,6 +1094,8 @@ https://www.reddit.com/r/Indian_Conservative/comments/1m7ubom/comment/n4umqbm/
 
 https://www.reddit.com/r/Indian_Conservative/comments/1m6fjve/comment/n4nyql6/
 
+https://archive.is/wZDE5
+
 >If a wife wants to visit or asks husband to take her to visit Taj mahal she indirectly supports infidelity cheating as it is symbol of it no matter how beautiful architecture is cheating is not justifiable.think about it.
 >>Or maybe she too is brainwashed like 90% of our population about this Taj Mahal
 
@@ -1083,6 +1104,8 @@ These two are mods of this subreddit
 # Never trust a muslim
 
 https://www.reddit.com/r/Indian_Conservative/comments/1mbmfxz/comment/n5nrva2/
+
+https://archive.is/Q5atw
 
 >A true muslim should never be trusted by any infidel.
 >
@@ -1094,6 +1117,8 @@ https://www.reddit.com/r/Indian_Conservative/comments/1mbmfxz/comment/n5nrva2/
 
 https://www.reddit.com/r/Indian_Conservative/comments/1mc5zow
 
+https://archive.is/q7lwI
+
 >childrens of mumtaz begum
 
 .
@@ -1104,13 +1129,15 @@ https://www.reddit.com/r/Indian_Conservative/comments/1mc5zow
 
 https://www.reddit.com/r/Indian_Conservative/comments/1mb7c3o/comment/n5k3jgg/
 
+https://archive.is/uwh93
+
 >Delete this post. Take my advice, before you get trolled for the utterly ridiculous imagination lol. I mean, Dharmize Islam? Seriously? Dharma and Islam are like day and night. Not to mention the fact that you cannot reform Islam. It is created in a way that it will always stay the same, stuck in the 7th century. And you can't take extremism out of it because extremism is what it was created on. You take that out and it simply won't be Islam anymore.
 
 # Conclusion
 
 The first set of comments and posts were posted in the original SubredditDrama post. They were only based on posts made on that subreddit one month before 21 July, 2025. The acid attack post was pinned by mods and one mod even commented under it calling it "most important post". After the SubredditDrama post many of these posts and comments were removed by mods for damage control. It took a massive SubredditDrama post for them to remove some of these. But within a week even more unmoderated hateful posts and comments were made in that Subreddit, many of them by mods themselves.
 
-Since inception of the subreddit probably many such posts and comments were made every month. In the SubredditDrama post one mod [even replied](https://www.reddit.com/r/SubredditDrama/comments/1m5upzh/comment/n4hcxhy/) disagreeing with everything
+Since inception of the subreddit probably many such posts and comments were made every month. In the SubredditDrama post one mod [even replied](https://archive.is/gktpe) disagreeing with everything
 
 >Isn't this brigading and violating reddit guidelines? Get a life instead of wasting time writing so much detailed post of random comments on subs.
 
