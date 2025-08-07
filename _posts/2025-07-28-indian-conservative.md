@@ -402,8 +402,6 @@ https://archive.is/LgZpL
 
 This comment was removed after outrage from the SubredditDrama post but is still present in archives.
 
-https://ihsoyct.github.io/index.html?comments=1lrcqvd&id=n1ffhkl
-
 https://archive.is/0ITQl
 
 >Xmulla malik hoga pakka (the owner must be a mullah)
