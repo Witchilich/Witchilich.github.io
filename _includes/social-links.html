@@ -17,8 +17,8 @@
       <script>gen_mail_to_link('{{ author.email }}', 'Hello from website');</script>
       </li>
     {% endif %}
-	{% if author.bluesky %}<li><a href="https://bsky.app/profile/{{ author.bluesky }}" class="social-link-item" target="_blank"><i class="fa-brands fa-bluesky"></i></a></li>{% endif %}
-	{% if author.wikipedia %}<li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}" class="social-link-item" target="_blank"><i class="fa-brands fa-wikipedia-w"></i></a></li>{% endif %}
+	{% if author.bluesky %}<li><a href="https://bsky.app/profile/{{ author.bluesky }}" class="social-link-item" target="_blank"><i class="fa fa-fw fa-bluesky"></i></a></li>{% endif %}
+	{% if author.wikipedia %}<li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}" class="social-link-item" target="_blank"><i class="fa fa-fw fa-wikipedia-w"></i></a></li>{% endif %}
     {% if author.twitter %}<li><a href="http://twitter.com/{{ author.twitter }}" class="social-link-item" target="_blank"><i class="fa fa-fw fa-twitter"></i></a></li>{% endif %}
     {% if author.linkedin %}<li><a href="http://linkedin.com/in/{{ author.linkedin }}" class="social-link-item" target="_blank"><i class="fa fa-fw fa-linkedin"></i></a></li>{% endif %}
     {% if author.tumblr %}<li><a href="http://{{ author.tumblr }}.tumblr.com" class="social-link-item" target="_blank"><i class="fa fa-fw fa-tumblr"></i></a></li>{% endif %}
