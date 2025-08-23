@@ -49,6 +49,8 @@ narcissu was my first Visual Novel, that I played in 2010. After this I played G
 
 [My favorite Anime Insert Songs](https://www.novelupdatesforum.com/posts/7898266/)
 
+[My favourite Anime OSTs](https://www.novelupdatesforum.com/posts/7985501/)
+
 # My Oshi
 
 My Oshi is Amelia Watson.
