@@ -7,7 +7,7 @@ youtubeId1: BZEdmNiF1ls
 ---
 Witchilich is the name I use all over internet. I have online presence with this name [since 2017](https://archive.is/E9l4g). 
 
-I had [both Dragons Dogma and Dragons Dogma:Dark Arisen](https://witchilich.github.io/img/dd.png) in the Xbox 360. Back then the only way to Eternal Ferrystone was to have a save in base Dragons Dogma in your account and then install Dragons Dogma:Dark Arisen over it. Dragons Dogma on consoles allow you only one character per account. I also wanted to make a new build so I made a new Xbox account. I was inspired by anime like Log Horizon and Sword Art Online, where in online games everyone had unique names that can be used as their names. So I created a unique name that was never used before. Unnfortunately after 2017, I was busy IRL and didn't play much in my Xbox 360 or One. Now I am a PC gamer who hates Xbox for runing Halo.
+I had [both Dragons Dogma and Dragons Dogma:Dark Arisen](https://witchilich.github.io/img/dd.png) in the Xbox 360. Back then the only way to Eternal Ferrystone was to have a save in base Dragons Dogma in your account and then install Dragons Dogma:Dark Arisen over it. Dragons Dogma on consoles allow you only one character per account. I also wanted to make a new build so I made a new Xbox account. I was inspired by anime like Log Horizon and Sword Art Online, where in online games everyone had unique names that can be used as their names. So I created a unique name that was never used before. Unnfortunately after 2017, I was busy IRL and didn't play much in my Xbox 360 or One. Now I am a PC gamer who hates Xbox for ruining Halo.
 
 # [Anime List](https://anidb.net/user/860503/mylist/?filemode=1&orderby.name=1.1&orderby.vote=0.2)
 
