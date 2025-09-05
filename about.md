@@ -62,11 +62,3 @@ Before her my Oshi used to be Mochizuki Himari.
 {% include youtubeplayer.html id=page.youtubeId1 %}
 
 Before Ame my favorite holo was Haachama. Lately I have stopped watching vtubers, but I watched Dooby debut and a few Dooby streams.
-
-# Who is the girl in my profile pic?
-
-Its an OC I created in Stable Diffusion. I also have two full body shots.
-
-[Full Body Picture 1](https://witchilich.github.io/img/profile/oc-1.png)
-
-[Full Body Picture 2](https://witchilich.github.io/img/profile/oc-2.png)
