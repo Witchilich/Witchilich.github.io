@@ -17,7 +17,7 @@ With this data I was able to form [my anime timeline](https://anidb.net/user/860
 
 [My AniDB Profile Page](https://anidb.net/user/860503/profile)
 
-[My AniDB Forum Signature](https://sig.anidb.net/images/signatures/33746-1S50O.jpg) It shows my currently watching anime status
+![Image](https://sig.anidb.net/images/signatures/33944-R1UZ7.png)
 
 I have been watching anime since 2005. Technically the fist anime I watched was Digimon Adventure in Cartoon Network. Between 2005 and 2007 I watched Digimon Adventure, Digimon Adventure 02, Digimon Tamers and Digimon Frontier in Cartoon Network. The Cartoon Network hindi dub of these shows used Japanese names and original Japanese songs, except for Digimon Frontier which had hindi dubbed opening and ending songs. But I didn't know what anime was back then. So my list starts from 2008 from shows I watched on Animax. I also don't have data on air times of Digimon Tamers and Digimon Frontier on Cartoon Network. In 2008 I got Animax in my home cable subscription and I finally understood what anime was. The first shows I watched on Animax were Blood+ and Darker than Black, but I watched random episodes of these and other Animax shows. The first Animax show I actually watched from Episode 1 was Shounen Onmyouji.
 
