@@ -10,7 +10,7 @@ youtubeId2: lErphaLW6pg
 youtubeId3: QPv7vZuw0ME
 youtubeId4: 50sgau-a4F0
 ---
-A month after my post in r/Indian_Conservative, this is a post on hateful posts and comments in r/Indian_Conservative since then.
+A month after my article in r/Indian_Conservative, this article is about hateful posts and comments in r/Indian_Conservative since then.
 
 # Generalising on Muslims calling them cancer
 
