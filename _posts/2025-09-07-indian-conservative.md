@@ -20,7 +20,7 @@ https://www.reddit.com/r/Indian_Conservative/comments/1mhzl5c/
 
 https://archive.is/w3rRS
 
->Inka Nabi B yahi krta tha(There Prophet also did this).. To ye cancer prajati kya sikhenge (So these cancer people learnt from him)
+>Inka Nabi B yahi krta tha (There Prophet also did this).. To ye cancer prajati kya sikhenge (So these cancer people learnt from him)
 
 .
 
@@ -48,11 +48,11 @@ https://archive.is/w3rRS
 
 .
 
->Allah k bando ko ye sab Allah ne allow kar rakha hai(Allah has allowed this to his people). Sunnat milta hai (they go to heaven)
+>Allah k bando ko ye sab Allah ne allow kar rakha hai (Allah has allowed this to his people). Sunnat milta hai (they go to heaven)
 
 .
 
->Nabi ke raste pe chal rahe hai(he is following the footsteps of his prophet).
+>Nabi ke raste pe chal rahe hai (he is following the footsteps of his prophet).
 
 .
 
