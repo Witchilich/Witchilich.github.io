@@ -1,6 +1,7 @@
 ---
 layout: post
-title: '"There Prophet also did this.. So these cancer people learnt from him" "You know, sometimes chemotherapy can't cure cancer. The cancerous limbs need to be amputated." "Close down all the churches" "They are not less than terrorist, one religion Booms and other Pays bags." More attacks on minorities in r/Indian_Conservative'
+title: >
+  "There Prophet also did this.. So these cancer people learnt from him" "You know, sometimes chemotherapy cant cure cancer. The cancerous limbs need to be amputated." "Close down all the churches" "They are not less than terrorist, one religion Booms and other Pays bags." More attacks on minorities in r/Indian_Conservative
 excerpt: 'A month after my post in r/Indian_Conservative, this is a post on hateful posts and comments in r/Indian_Conservative since then.'
 tags: [Hate Subreddits]
 image:
