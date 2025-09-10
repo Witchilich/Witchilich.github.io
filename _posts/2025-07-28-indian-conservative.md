@@ -233,6 +233,7 @@ https://archive.is/Rrf28
 >>>>And let me tell you that mc never gave a single rupee for his studies, his college fees and half his hostel fees was paid by government schemes. Meanwhile my family with lower middle class background, I couldn't get to afford two shoes at the same time, while that mc was partying every week, had bike and lived like typical wannabe goon. Until one day, some seniors who didn't like him disrespecting me, smashed the fvck out of him. And those seniors were from all caste not just brahmin or thakur.
 >>>>
 >>>>How would you expect the rajput brothers to live in peace whose families after families were slaughtered while they are forced to live with people, adopting their history, appropriating their surnames?? I studied in Baniya Marwari dominated school. Let me tell you, they never get into caste related troubles etc and indeed are very focused people but they top carry caste consciousness.
+>>
 >>All my Baniya friends firstly married within their own caste. That is the norm in their families. And even in their family owned businesses they prefer hiring in key positions someone of their own caste.
 >>
 >>They don't have superiority complex like the Brahmins, Rajputs but most of them definitely are significantly caste conscious.

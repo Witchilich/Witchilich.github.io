@@ -366,6 +366,7 @@ https://archive.is/OUvTg
 >Their citizenship is Islam.
 >>Yeah ummaists recruited through sword and r@pe
 >>>Yes, we are forced to live with 200 million of them in India itself.
+>>
 >>Ummah 💋😆
 
 # Rohingya are trash that have to be thrown out
