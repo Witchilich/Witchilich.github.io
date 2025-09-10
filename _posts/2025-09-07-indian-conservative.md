@@ -83,7 +83,7 @@ Its pretty funny that he gave example of China which banned all religions. All r
 
 And the comments.
 
->All of your points go against the cancerAll of your points go against the cancer
+>All of your points go against the cancer
 >>😉
 >>>You know, sometimes chemotherapy can't cure cancer. The cancerous limbs need to be amputated.
 >>>>Hahaha
