@@ -374,6 +374,8 @@ https://www.reddit.com/r/Indian_Conservative/comments/1n454as/
 
 https://archive.is/2757b
 
+This post was made by a mod
+
 >chad india ... i hope its not stopped ...
 
 .
