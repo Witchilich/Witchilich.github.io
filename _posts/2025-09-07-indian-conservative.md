@@ -103,7 +103,9 @@ https://archive.is/kGImI
 
 >All these abrahamic religions are same
 >>And they're all alien to India
+>>
 >>.
+>>
 >>aur israel israel nara lagao (And praise israel more)
 >>>It's our ally to fight worst problem in Arab. (this comment was made by a mod)
 
@@ -735,8 +737,10 @@ https://archive.is/vYtFt
 >There is no such thing called "Indian Muslims".
 >
 >Stop using such terms.
->>On point 
+>>On point
+>>
 >>.
+>>
 >>Correct, Pardon me
 
 # People mad about a secular tweet
