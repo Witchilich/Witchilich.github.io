@@ -2,7 +2,7 @@
 layout: post
 title: '"Please throw these christianity out from india" "Why not throw all rabid dogs in the peaceful community" "Remove the Parasite" Acid attacks, sharp equipments and other threats on minorities in r/Indian_Conservative'
 excerpt: 'It had a post about throwing acids and sharp objects on minorities, which was pinned by mods and called "most important post" by one mod. The subreddit also had comments about throwing rabid dogs and hyenas into muslims and throwing all Christians out of India.'
-tags: [Hate Subreddits]
+categories: [Hate Subreddits]
 youtubeId: RuzRb7G0MUw
 youtubeId1: FqcXCObW144
 youtubeId2: bOb_zfcCRQg
