@@ -288,6 +288,7 @@ https://archive.is/CNY19
 >>
 >>I think we should focus more on development of northeast. First we have secure the border and throw out all illegal kanglus. Then build proper infrastructure and make it much more connected with India. At the same Protect the native culture of tribes.
 >>>Yes. We did a blunder by not focusing on that part of the country.
+>>
 >>Please clarify you mean Kashmiri Ms and not Hs.
 >>>Yep I'm talking about Kashmiri muslims. Tho I have to say that I've seen a lot of kashmiri pandit urban naxals like nidhi razdhan, and many of my friends.. pseudo seculars. Kya bole.. Hindus never learn from their past.
 
