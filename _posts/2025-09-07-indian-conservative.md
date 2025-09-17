@@ -285,6 +285,7 @@ https://archive.is/CNY19
 >>I once saw a guy who was spreading hate against India , but his linkedin was in his profile, i stalked and found out he was studying in Chandigarh
 >>>Chandigarh? They literally get top subsidised education at top institutions and live in top metros and still do the same. I have seen so many like this doing their phd and spitting venom during my college days.
 >>>>I see them doing the same shit here in Delhi.. JMI is their hub.
+>>
 >>I think we should focus more on development of northeast. First we have secure the border and throw out all illegal kanglus. Then build proper infrastructure and make it much more connected with India. At the same Protect the native culture of tribes.
 >>>Yes. We did a blunder by not focusing on that part of the country.
 >>Please clarify you mean Kashmiri Ms and not Hs.
