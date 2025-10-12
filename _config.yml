@@ -1,0 +1,54 @@
+#
+###################################
+# Site wide configuration
+####################################
+#
+title: Witchilich
+email:
+description: My personal space
+url: https://witchilich.github.io
+keywords: [witchilich, blog, site]
+
+#
+###################################
+# Jekyll configuration
+####################################
+#
+timezone:          India/Kolkata
+markdown:          kramdown
+highlighter:       rouge
+excerpt_separator: <!--more-->
+permalink:         /articles/:year-:month/:title
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+#
+###################################
+# Site Owner configuration
+####################################
+#
+owner:
+  name: Witchilich
+  avatar: profile/train.png
+  job: 
+  bio: 
+  email:
+  bluesky: 
+  wikipedia: Witchilich
+  twitter: witchilich
+  github: #username
+  gitlab: #username
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: #username
+  tumblr: #username
+  steam: #username
+  youtube: witchilich
+  soundcloud: #username
+  codepen: #username
+  reddit: witchilich
+  telegram: 
