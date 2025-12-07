@@ -14,8 +14,6 @@ A month after my article in r/Indian_Conservative, this article is about hateful
 
 # Generalising on Muslims calling them cancer
 
-https://www.reddit.com/r/Indian_Conservative/comments/1mhzl5c/
-
 https://archive.is/w3rRS
 
 >Inka Nabi B yahi krta tha (There Prophet also did this).. To ye cancer prajati kya sikhenge (So these cancer people learnt from him)
@@ -66,8 +64,6 @@ https://archive.is/w3rRS
 
 # Islam is cancer and constitution should be amended to ban it
 
-https://www.reddit.com/r/Indian_Conservative/comments/1mkmv2w/
-
 https://archive.is/IdEni
 
 >Gandhi and Nehru, for their vote-bank politics kept a cancer within our nation.
@@ -92,8 +88,6 @@ And the comments.
 
 # Generalising on Christians
 
-https://www.reddit.com/r/Indian_Conservative/comments/1mlstuf/
-
 https://archive.is/kGImI
 
 >Fake news
@@ -115,8 +109,6 @@ https://archive.is/kGImI
 
 # More generalisation on Christians
 
-https://www.reddit.com/r/Indian_Conservative/comments/1mtc8u9/
-
 https://archive.is/IGd4J
 
 >They are not less than terrorist, one religion Booms and other Pays bags.
@@ -130,8 +122,6 @@ https://archive.is/IGd4J
 >They are nothing different than "Ghazwa-e-Hind" types.
 
 # Call for use of sharp weapons on Muslims
-
-https://www.reddit.com/r/Indian_Conservative/comments/1mmx075/
 
 https://archive.is/J7Guo
 
@@ -151,8 +141,6 @@ https://archive.is/J7Guo
 
 # Islam is the greatest threat
 
-https://www.reddit.com/r/Indian_Conservative/comments/1mssqe2/
-
 https://archive.is/WBqL9
 
 For all we know these videos from right wing handles could be staged
@@ -170,8 +158,6 @@ For all we know these videos from right wing handles could be staged
 
 # More generalising on Muslims
 
-https://www.reddit.com/r/Indian_Conservative/comments/1msoxsx/
-
 https://archive.is/mO0VH
 
 >Is it written in their book to be m@darch#d (motherfucker)??
@@ -186,8 +172,6 @@ https://archive.is/mO0VH
 
 
 # Even more generalising about Muslims and mod calling for brigading of r/exmuslim and atheism subs
-
-https://www.reddit.com/r/Indian_Conservative/comments/1mj0vke/
 
 https://archive.is/KQ6rW
 
@@ -220,8 +204,6 @@ These people got r/exhindu banned but love posting in r/exmuslim.
 >Sahi hai(This is correct). Jab kudha pedo niklega(when their god is a pedo), follow karne waale bevde hii niklenge(the people who follow him are also despicable.
 
 # Generalising about Muslims continues
-
-https://www.reddit.com/r/Indian_Conservative/comments/1my076w/
 
 https://archive.is/psNce
 
@@ -267,15 +249,11 @@ https://x.com/gharkekalesh/status/1958860833695694995
 
 # Islam should be banned
 
-https://www.reddit.com/r/Indian_Conservative/comments/1n31dle/
-
 https://archive.is/MsT7v
 
 >Islam bc ban ho jana chahiye duniya se (Islam should be banned from this world), practicing islam should be a punishable offence. Uno reverse.
 
 # Conservatives want Kashmir but not its people, also fetishizing over a North East India girls (in this case the girl looks 6)
-
-https://www.reddit.com/r/Indian_Conservative/comments/1mlld0e/
 
 https://archive.is/CNY19
 
@@ -318,8 +296,6 @@ https://archive.is/CNY19
 
 # Jesus died for breaking Jewish laws and he copied Modi, New testament is full of lies and misinterpretations of the Jewish Tanakh, Catholicism is reinvented hindu rituals and Muhammad fought against local Jewish tribes
 
-https://www.reddit.com/r/Indian_Conservative/comments/1mputxz/
-
 https://archive.is/anSXH
 
 >Jesus kasam sachi muchi alive hain (I promise Jesus is alive).. abhi abhi chai peeke aaya uske tapri se (just returned from drinking tea from his stall)
@@ -355,8 +331,6 @@ https://archive.is/anSXH
 
 # Muslims are not citizens of the nation
 
-https://www.reddit.com/r/Indian_Conservative/comments/1n465ie/
-
 https://archive.is/OUvTg
 
 >They are not citizens of any country.
@@ -372,8 +346,6 @@ https://archive.is/OUvTg
 >>Ummah 💋😆
 
 # Rohingya are trash that have to be thrown out
-
-https://www.reddit.com/r/Indian_Conservative/comments/1n454as/
 
 https://archive.is/2757b
 
@@ -414,8 +386,6 @@ This post was made by a mod
 
 # People celebrating the death of a muslim who prayed to change the tide of a flood
 
-https://www.reddit.com/r/Indian_Conservative/comments/1n446jn/
-
 https://archive.is/7Iw6H
 
 This post is made by a mod
@@ -433,8 +403,6 @@ This image was also posted in the comments
 ![Image](https://witchilich.github.io/img/open.webp){: width="375" }{: height="450" }
 
 # People gloating over the pic of Babri Masjid demolition
-
-https://www.reddit.com/r/Indian_Conservative/comments/1n0ljhk/
 
 https://archive.is/KADtv
 
@@ -483,8 +451,6 @@ https://archive.is/KADtv
 
 # Hate against Kashmiris
 
-https://www.reddit.com/r/Indian_Conservative/comments/1n0qrjv/
-
 https://archive.is/PuRUL
 
 >LOL islamist piglet trying to hide behind kashmiri identity to mask their islamism.
@@ -498,15 +464,11 @@ https://archive.is/PuRUL
 
 # Being gay is a mental illness
 
-https://www.reddit.com/r/Indian_Conservative/comments/1n1asqq/
-
 https://archive.is/xY3n2
 
 >🤢🤢 mental illness 🤒
 
 # Dravidian Movement confuses these people
-
-https://www.reddit.com/r/Indian_Conservative/comments/1n1k3u4/
 
 https://archive.is/cTHpo
 
@@ -515,8 +477,6 @@ https://archive.is/cTHpo
 >I want to know if you do not worship hindu god and goddess than whom do you worship, which god do you praise, or else you worship christian god or that islamic god, whom do you worship? what is your history, with that God? How did you all evolved? Or you all are atheist? if you are atheist, than it must be your ancestors must also should have been atheist?
 
 # Free Kashmir and Syria of Islam
-
-https://www.reddit.com/r/Indian_Conservative/comments/1n3u23g/
 
 https://archive.is/ZiZfq
 
@@ -577,15 +537,11 @@ Imagine equating yourself with Taliban and Hitler
 
 # Using Taliban as an example to generalize on Muslims
 
-https://www.reddit.com/r/Indian_Conservative/comments/1n4lwz2/
-
 https://archive.is/GXCy2
 
 >Taliban is wrong here. Even a six year old is allowed in their religion 
 
 # Hating on Islam and gloating over Jews
-
-https://www.reddit.com/r/Indian_Conservative/comments/1n34568/
 
 https://archive.is/9lVqz
 
@@ -604,8 +560,6 @@ https://archive.is/9lVqz
 >>>We're supposed to leave peacefully with these. What a waste of air
 
 # People protesting for Palestine should be run over by cars
-
-https://www.reddit.com/r/Indian_Conservative/comments/1mcjezh/
 
 https://archive.is/dIXMY
 
@@ -636,15 +590,11 @@ Mahindra Thar drivers are known to drive reclessly, so its a meme. Many of the c
 
 # Palestine Free World
 
-https://www.reddit.com/r/Indian_Conservative/comments/1mrugw4/
-
 https://archive.is/jKrSw
 
 >What about Palestine free world?
 
 # More hate against Palestine supporters
-
-https://www.reddit.com/r/Indian_Conservative/comments/1mu5qyc/
 
 https://archive.is/2ffBT
 
@@ -688,13 +638,7 @@ This image is the top reply
 
 I was able to find multiple videos from the same Israeli content creator. Right Wing has a weird fascination with Israel.
 
-https://www.reddit.com/r/Indian_Conservative/comments/1n5gy81/
-
 https://archive.is/w1Kgh
-
-https://www.reddit.com/r/Indian_Conservative/comments/1n5h83a/
-
-https://www.reddit.com/r/Indian_Conservative/comments/1n5gh7q/
 
 {% include youtubeplayer.html id=page.youtubeId2 %}
 
@@ -703,8 +647,6 @@ https://www.reddit.com/r/Indian_Conservative/comments/1n5gh7q/
 {% include youtubeplayer.html id=page.youtubeId4 %}
 
 # No such thing called Indian Muslims
-
-https://www.reddit.com/r/Indian_Conservative/comments/1mgbbrw/
 
 https://archive.is/vYtFt
 
@@ -720,8 +662,6 @@ https://archive.is/vYtFt
 >>Correct, Pardon me
 
 # People mad about a secular tweet
-
-https://www.reddit.com/r/Indian_Conservative/comments/1mhcpb0/
 
 https://archive.is/TBsEH
 
@@ -744,8 +684,6 @@ https://archive.is/TBsEH
 
 # "Cry-stians"
 
-https://www.reddit.com/r/Indian_Conservative/comments/1mps8d0/
-
 https://archive.is/ZzAUY
 
 >Cry-stians cry about demographic change when it comes to their countries but actively pushing it when it comes to other countries.
@@ -753,8 +691,6 @@ https://archive.is/ZzAUY
 >Maybe the Islamic mass emigration to their countries is their Karma.
 
 # People lying that Muslims don't celebrate hindu festivals
-
-https://www.reddit.com/r/Indian_Conservative/comments/1mdvn5z/
 
 https://archive.is/JqmtX
 
@@ -766,15 +702,11 @@ Irrespective of what these people lie about, I myself have seen muslims celebrat
 
 # Rape threats against Congress MP for opposing BJP
 
-https://www.reddit.com/r/Indian_Conservative/comments/1mcjjju/comment/n5xxxif/
-
 https://archive.is/tsUcc
 
 >Bitch needs a good fuck!
 
 # Patriotism is equal to religion
-
-https://www.reddit.com/r/Indian_Conservative/comments/1mcntua/comment/n5xbujc/
 
 https://archive.is/nYDxt
 
@@ -784,15 +716,11 @@ https://archive.is/nYDxt
 
 # Secularism bad
 
-https://www.reddit.com/r/Indian_Conservative/comments/1mjhkp2/
-
 https://archive.is/Twafp
 
 >>Yes, wearing a black tent supports Muhammad prophet who raped saafiyah and married 6 year old 
 
 # Banning item songs means enabling Islam and Christianity
-
-https://www.reddit.com/r/Indian_Conservative/comments/1mhl3sj/comment/n6y4ay9/
 
 https://archive.is/8lIAP
 

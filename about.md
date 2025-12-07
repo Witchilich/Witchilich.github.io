@@ -51,6 +51,8 @@ narcissu was my first Visual Novel, that I played in 2010. After this I played G
 
 [My favorite Anime Openings Part 3](https://www.novelupdatesforum.com/posts/7885932/)
 
+[My favorite Anime Openings Part 4](https://www.novelupdatesforum.com/posts/7997148/)
+
 [My favorite Anime Endings Part 1](https://www.novelupdatesforum.com/posts/7892784/)
 
 [My favorite Anime Endings Part 2](https://www.novelupdatesforum.com/posts/7893011/)
