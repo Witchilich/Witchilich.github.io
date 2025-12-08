@@ -1611,7 +1611,7 @@ I couldn't download the audio
 
 A mod replied to the above comment with this image
 
-![Image](https://witchilich.github.io/img/discipline-feelings-v0-eh2bxguo47wf1.webp)
+![Image](https://witchilich.github.io/img/discipline-feelings-v0-eh2bxguo47wf1.webp){: width="405" }{: height="401" }
 
 # More Misogyny
 
@@ -1619,7 +1619,7 @@ https://www.reddit.com/r/IndianMeme/comments/1oatuo1/titlie/
 
 https://archive.is/YUXNH
 
-![Image](https://witchilich.github.io/img/open.webp){: width="539" }{: height="383" }
+![Image](https://witchilich.github.io/img/open.webp){: width="375" }{: height="450" }
 
 # Misogyny when talking about a community
 
