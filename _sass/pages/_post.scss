@@ -205,20 +205,6 @@ a.read-more {
     border-color: #627aac;
   }
 }
-.google-plus {
-  background-color: #e36f60;
-  color: $dark;
-  border-color: #e36f60;
-  &:visited {
-    color: $dark;
-    border-color: #e36f60;
-  }
-  &:hover {
-    background-color: $dark;
-    color: #e36f60;
-    border-color: #e36f60;
-  }
-}
 .hacker-news {
   background-color: #f60;
   color: $dark;
@@ -234,16 +220,30 @@ a.read-more {
   }
 }
 .reddit {
-  background-color: #5f99cf;
+  background-color: #ff4500;
   color: $dark;
-  border-color: #5f99cf;
+  border-color: #ff4500;
   &:visited {
     color: $dark;
-    border-color: #5f99cf;
+    border-color: #ff4500;
   }
   &:hover {
     background-color: $dark;
-    color: #5f99cf;
-    border-color: #5f99cf;
+    color: #ff4500;
+    border-color: #ff4500;
+  }
+}
+.mail {
+  background-color: #f8d775;
+  color: $dark;
+  border-color: #f8d775;
+  &:visited {
+    color: $dark;
+    border-color: #f8d775;
+  }
+  &:hover {
+    background-color: $dark;
+    color: #f8d775;
+    border-color: #f8d775;
   }
 }
