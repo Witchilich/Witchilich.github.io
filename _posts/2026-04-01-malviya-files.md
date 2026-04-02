@@ -24,7 +24,7 @@ https://x.com/andrellaj/status/360479181399793664
 
 https://archive.is/MOxMg
 
-![Image](https://witchilich.github.io/img/malviya106.png)
+![Image](https://witchilich.github.io/img/malviya106.jpg)
 
 This was unfortunately deleted too fast before it could be archived on archive.today. It may have been archived on Wayback Machine, but Wayback Machine complies to deletion requests and BJP seems to have removed all old Amit Malviya tweets from Wayback  Machine.
 
