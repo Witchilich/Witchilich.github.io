@@ -4,6 +4,7 @@ title: >
   BJP IT cell chief Amit Malviya admitting to liking porn and being a creep
 excerpt: 'This is the guy who is head of BJP IT cell.'
 categories: [Politics]
+youtubeId: 4JGw68lzRM8
 ---
 Just a few old tweets by Amit Malviya
 
@@ -22,6 +23,16 @@ https://archive.is/t3FoG
 https://x.com/andrellaj/status/360479181399793664
 
 https://archive.is/MOxMg
+
+![Image](https://witchilich.github.io/img/malviya106.png)
+
+This was unfortunately deleted too fast before it could be archived on archive.today. It may have been archived on Wayback Machine, but Wayback Machine complies to deletion requests and BJP seems to have removed all old Amit Malviya tweets from Wayback  Machine.
+
+You can still read the discourse of twitter users linking this tweet before it was deleted
+
+https://x.com/search?q=268058393955155971&src=typed_query
+
+https://archive.is/L0VwD
 
 ![Image](https://witchilich.github.io/img/malviya26.png)
 
@@ -64,6 +75,12 @@ https://archive.is/PW52f
 ![Image](https://witchilich.github.io/img/malviya56.png)
 
 https://archive.is/w6eYk
+
+![Image](https://witchilich.github.io/img/malviya102.png)
+
+https://x.com/amitmalviya/status/298842160827084800
+
+https://archive.is/QgTvQ
 
 ![Image](https://witchilich.github.io/img/malviya18.png)
 
@@ -185,13 +202,35 @@ https://x.com/amitmalviya/status/468437109993263104
 
 https://archive.is/ZzF2K
 
+![Image](https://witchilich.github.io/img/malviya100.png)
+
+https://archive.is/v0jnG
+
+![Image](https://witchilich.github.io/img/malviya101.png)
+
+https://archive.is/WaW7j
+
 ![Image](https://witchilich.github.io/img/malviya55.png)
 
 https://x.com/amitmalviya/status/278925968591187968
 
 https://archive.is/cCGGf
 
+![Image](https://witchilich.github.io/img/malviya103.png)
+
+https://archive.is/doEki
+
+![Image](https://witchilich.github.io/img/malviya105.png)
+
+https://archive.is/MUprj
+
 Some other old tweets from him
+
+![Image](https://witchilich.github.io/img/malviya104.png)
+
+https://x.com/amitmalviya/status/803550880754647040
+
+https://archive.is/KLf2C
 
 ![Image](https://witchilich.github.io/img/malviya88.png)
 
@@ -200,6 +239,10 @@ https://archive.is/m1Uqh
 ![Image](https://witchilich.github.io/img/malviya89.png)
 
 https://archive.is/hnouP
+
+![Image](https://witchilich.github.io/img/malviya98.png)
+
+https://archive.is/QAp9C
 
 ![Image](https://witchilich.github.io/img/malviya86.png)
 
@@ -308,6 +351,16 @@ https://archive.is/b5QmA
 This claim is false
 
 https://www.altnews.in/did-jawaharlal-nehru-ever-say-i-am-english-by-education-muslim-by-culture-and-hindu-by-accident/
+
+![Image](https://witchilich.github.io/img/malviya99.png)
+
+https://archive.is/RNAQ9
+
+The truth about these images
+
+{% include youtubeplayer.html id=page.youtubeId %}
+
+https://archive.is/RNAQ9
 
 ![Image](https://witchilich.github.io/img/malviya61.png)
 
