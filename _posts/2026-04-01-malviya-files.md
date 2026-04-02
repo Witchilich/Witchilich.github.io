@@ -65,7 +65,7 @@ https://archive.is/PW52f
 
 https://archive.is/w6eYk
 
-![Image](https://witchilich.github.io/img/malviya18png)
+![Image](https://witchilich.github.io/img/malviya18.png)
 
 https://x.com/amitmalviya/status/167276379346448384
 
