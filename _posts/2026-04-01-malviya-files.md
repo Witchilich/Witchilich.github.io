@@ -147,10 +147,6 @@ https://x.com/amitmalviya/status/166901715688370176
 
 https://archive.is/RZJOM
 
-https://x.com/amitmalviya/status/167139124522926080
-
-https://archive.is/TUOzr
-
 ![Image](https://witchilich.github.io/img/malviya17.png)
 
 https://x.com/amitmalviya/status/166910269942005760
@@ -257,7 +253,7 @@ https://x.com/amitmalviya/status/312446070661718016
 
 https://archive.is/ehBSE
 
-![Image](https://witchilich.github.io/img/malviya46.png)
+![Image](https://witchilich.github.io/img/malviya47.png)
 
 https://x.com/amitmalviya/status/327864812342231041
 
